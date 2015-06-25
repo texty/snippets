@@ -1,6 +1,7 @@
 # extract fields from static html with results of voting
 # convert to something like js array
 
+
 require 'nokogiri'
 require 'open-uri'
 
